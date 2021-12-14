@@ -1,0 +1,47 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+body {
+    background-image: url("assets/metsvert.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* MOBILE VIEW */
+@media only screen and (max-width: 1366px) {
+    body {
+        position: relative;
+    } 
+    .header {
+        margin: 5%;
+        height: auto;
+        width: auto;
+        display: flex;
+        border: 1px solid black;
+        box-shadow: rgba(0, 0, 0, 0.75) 0px 0px 15px 10px;
+        background-color: rgba(0, 0, 0, 0.2);
+        border-radius: 20px;
+        justify-content: space-around;
+        flex-flow: row;
+        backdrop-filter: blur(8px);
+        margin-bottom: 6vh;
+    }
+    .akord {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        padding: 10px;
+        font-size: 1.5em;
+    }
+    .container {
+        position:relative;
+        width: 100%;
+        margin-bottom: 6vh;
+        background-color: rgb(0,0,0,0.2);
+        backdrop-filter: blur(8px);
+    }
+
+    .container div {
+    }
+}

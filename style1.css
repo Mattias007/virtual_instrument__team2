@@ -1,0 +1,28 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    border: 0px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.akord {
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    cursor: pointer;
+    font-size: 30px;
+    padding: 20px;
+}
+
+@media only screen and (min-width: 1025px) {
+    .header {
+        justify-content: center;
+    }
+    .akord {
+        padding: 50px;
+    }
+}

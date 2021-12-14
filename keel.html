@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        .container {
+            height: 100px;
+            width: 1200px;
+            margin: 100px;
+            margin-top: 200px;
+            display: table-cell;
+            vertical-align: middle;
+            background-color: darkkhaki;
+        }
+        
+        .string {
+            width: 1200px;
+            height: 4px;
+            top: 10;
+            position: absolute;
+            background-color: black;
+            animation-name: line;
+            animation-duration: 0.5s;
+        }
+        
+        @keyframes line {
+            from {
+                margin: 15px;
+            }
+            to {
+                margin: -15px;
+            }
+            0% {
+                margin: 10px;
+            }
+            25% {
+                margin: -10px;
+            }
+            50% {
+                margin: 5px;
+            }
+            75% {
+                margin: -5px;
+            }
+            100% {
+                margin: 3px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="string">.</div>
+    </div>
+
+</body>
+
+</html>
