@@ -1,16 +1,16 @@
 // Socket.io server configuration
 // const socket = io("http://localhost:8000");
-const socket = io("https://kak-socketio-server.herokuapp.com");
+const socket = io("http://10.25.184.34:8000");
 
 socket.on("connect", () => {
-  console.log("Client connected to: " + socket.id);
-  online = true;
+    console.log("Client connected to: " + socket.id);
+    online = true;
 });
 
 socket.on('send-data', res => {
-  recieveData(res); 
+    recieveData(res);
 });
 
 socket.on("disconnect", () => {
-  console.log("Client disconnected from" + socket.id); 
+    console.log("Client disconnected from" + socket.id);
 });
