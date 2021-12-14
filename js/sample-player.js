@@ -117,7 +117,7 @@ function preloadSampleFiles() {
 
 
 function setup() {
-    createCanvas(windowWidth, windowHeight * 0.8)
+    // createCanvas(windowWidth, windowHeight * 0.8)
 
     // https://p5js.org/reference/#/p5.FFT
     fft = new p5.FFT();
@@ -129,7 +129,7 @@ function setup() {
 
 
 // visualization
-function draw() {
+/* function draw() {
     blendMode(BLEND);
     background(10, 5, 20);
     blendMode(LIGHTEST);
@@ -142,7 +142,7 @@ function draw() {
     stroke('hsla(0, 80%, 100%, 0.5)');
     strokeWeight(size * 0.05);
     circle(windowWidth * 0.5, windowHeight * 0.4, size);
-}
+} */
 
 
 // helper functions
@@ -153,6 +153,6 @@ function touchStarted() {
     }
 }
 // handles browser resize
-function windowResized() {
+/* function windowResized() {
     resizeCanvas(windowWidth, windowHeight * 0.8, false);
-}
+} */

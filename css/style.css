@@ -12,15 +12,21 @@ body {
     position: relative;
     background-color: black;
     height: 100vh;
+    background-image: url("/mets.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    overflow: hidden;
 }
 .keys{
-    position: absolute;
+    /* position: absolute; */
     bottom:5vh;
-    left:0;
-    width: 100%;
+    flex-direction: column;
+    height: 80%;
     display: flex;
-    gap: 2vw;
-    padding: 2vw;
+    gap: 1rem;
+    padding: 1rem;
+    justify-content: center;
+    align-items: center;
 }
 
 .key{
@@ -29,19 +35,20 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 8vw;
+    font-size: 4rem;
     border: 1px solid white;
     border-radius: 0.25ch;
     cursor: pointer;
     user-select: none;
+    width: 4rem;
 }
 
 .container {
     height: 100vh;
     width: 100vw;
-    background-image: url("/mets.png");
-    background-repeat: no-repeat;
-    background-position: center center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .main {
     position: fixed;
@@ -70,18 +77,17 @@ body {
     color: white;
     text-decoration: none;
 }
-.pilt{
-    height: 100vh;
-    background-image: url("/mets.png");
+.kannel {
+    background-image: url("/KANNEL2.png");
     background-repeat: no-repeat;
     background-position: center center;
-    display: flex;
-    align-items: center;
+    background-size:cover;
+    width: 100vw;
 }
-.kannel{
-    height: 500px;
-    width: 1500px;
-}
+
+
+
+
 .nupp1{
     text-decoration: none;
     color: white;
