@@ -80,14 +80,11 @@ body {
 }
 .kannel{
     height: 500px;
-    width: 1500px;
+    width: 1300px;
 }
 .nupp1{
     text-decoration: none;
     color: white;
-    position: absolute;
-    top: 310px;
-    right: 1050px;
     background: rgba(202, 198, 198, 0.5);
     font-size: 50px;
     border-radius: 5px 5px 5px 5px;
@@ -95,9 +92,6 @@ body {
 .nupp2{
     text-decoration: none;
     color: white;
-    position: absolute;
-    top: 200px;
-    right: 1300px;
     background-color: rgba(202, 198, 198, 0.5) ;
     font-size: 50px;
     border-radius: 5px 5px 5px 5px;
@@ -105,9 +99,6 @@ body {
 .nupp3{
     text-decoration: none;
     color: white;
-    position: absolute;
-    top: 410px;
-    right:840px;
     background-color: rgba(202, 198, 198, 0.5);
     font-size: 50px;
     border-radius: 5px 5px 5px 5px;
@@ -115,9 +106,6 @@ body {
 .nupp4{
     text-decoration: none;
     color: white;
-    position: absolute;
-    top: 370px;
-    right: 950px;
     background-color: rgba(202, 198, 198, 0.5);
     font-size: 50px;
     border-radius: 5px 5px 5px 5px;
@@ -125,9 +113,6 @@ body {
 .nupp5{
     text-decoration: none;
     color: white;
-    position: absolute;
-    top: 480px;
-    right: 700px;
     background-color: rgba(202, 198, 198, 0.5);
     font-size: 50px;
     border-radius: 5px 5px 5px 5px;
@@ -135,9 +120,6 @@ body {
 .nupp6{
     text-decoration: none;
     color: white;
-    position: absolute;
-    top: 260px;
-    right: 1150px;
     background-color: rgba(202, 198, 198, 0.5);
     font-size: 50px;
     border-radius: 5px 5px 5px 5px;
@@ -145,10 +127,13 @@ body {
 .nupp7{
     text-decoration: none;
     color: white;
-    position: absolute;
-    top: 450px;
-    right: 765px;
     background-color: rgba(202, 198, 198, 0.5);
     font-size: 50px;
     border-radius: 5px 5px 5px 5px;
+}
+
+.nupud{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
 }
