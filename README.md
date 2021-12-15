@@ -120,7 +120,7 @@ Külle:                      -
 
 Remi:                       -
 
-Olev:                       -
+Olev: Ei oleks soovinud                      -
   
 **2. Üks pehme oskus, mida õppisin ja endas arendasin:**
 
@@ -140,7 +140,7 @@ Külle:                      -
 
 Remi:                       -
 
-Olev:                       -
+Olev: Suhtlemine, meeskonnatöö                     -
   
 **3. Üks tehniline oskus, mida õppisin ja endas arendasin.**
 
@@ -160,7 +160,7 @@ Külle:                      -
 
 Remi:                       -
 
-Olev:                       -
+Olev:                       -Arduino koostamine, ühendamine arvutiga
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
