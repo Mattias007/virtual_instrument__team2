@@ -19,9 +19,9 @@ let sounds = Array(files.length);
 
 // P5.js sound analyzer
 // visualization uses this
-let fft;
+// let fft;
 // visualization parameters
-let spectrum, energy, size;
+// let spectrum, energy, size;
 
 
 // playing with keyboard
