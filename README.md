@@ -1,7 +1,8 @@
 # GRUPITÖÖ - VIRTUAL INSTRUMENT
 
 ## PROJEKTI EESMÄRGID:
-(1) Valmistada veebileht kus saab virtuaalselt kannelit mängida.
+(1) 
+Valmistada veebileht kus saab virtuaalselt kannelit mängida.
 (2) Arendada tiimitööd ja õppida suhtlemist tiimikaaslastega.
 (3) Tiimitöö korrektne organiseerimine.
 
