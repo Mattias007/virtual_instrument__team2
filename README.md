@@ -116,7 +116,7 @@ Andrus:                     -
 
 Rihard:                     -
 
-Külle:                      - 
+Külle:                      Ei. Tore team oli. 
 
 Remi:                       -
 
@@ -136,7 +136,7 @@ Andrus:                     -
 
 Rihard:                     -
 
-Külle:                      - 
+Külle:                      Kuidas paremini arvestada, et disain on programmeerijatele teostatav. 
 
 Remi:                       -
 
@@ -156,7 +156,7 @@ Andrus:                     -
 
 Rihard:                     -
 
-Külle:                      - 
+Külle:                      Css animatsioonid; hoveri child elementdi lisamine; Figmas prototüüpisel lisateadmised.
 
 Remi:                       -
 
