@@ -9,10 +9,17 @@ const files = [
     "strings/4-G.wav",
     "strings/5-A.wav",
     "strings/6-B.wav",
-    "chords/A7.wav",
-    "chords/D.wav",
-    "chords/E_minor.wav",
-    "chords/G.wav",
+    "strings/0-A.wav",
+    "strings/1-D.wav",
+    "strings/2-E.wav",
+    "strings/3-F_sharp.wav",
+    "strings/4-G.wav",
+    "strings/5-A.wav",
+    "strings/6-B.wav",
+    // "chords/A7.wav",
+    // "chords/D.wav",
+    // "chords/E_minor.wav",
+    // "chords/G.wav",
 ];
 let sounds = Array(files.length);
 
