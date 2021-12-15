@@ -9,6 +9,7 @@
 
 ## GRUPI LIIKMED:
 **TAK-21**
+
 (1) Evert Kärp          
 (2) Airi Zenkevičs      
 (3) Kristo Tänak        
