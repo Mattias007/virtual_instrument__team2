@@ -47,6 +47,7 @@
 
 * Veebisaidi baasi tegemine.
 
+
 **2. päev:**
 
 * Disainilahenduse ülevaatamine ja viimistlemine.
@@ -56,6 +57,7 @@
 * Arduino ühendamine serveriga.
 
 * Serveri loomine.
+
 
 **3. päev:**
 * Töö hetkeseisu ülevaatamine.
@@ -67,6 +69,7 @@
 * Esitluse esitamine.
 
 * GitHubi korda tegemine.
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
