@@ -51,7 +51,9 @@ document.addEventListener('keydown', (event) => {
             case 'j':
                 socket.emit("send-data", { "sample": 6 });
                 break;
-
+            case '':
+                socket.emit("send-data", { "sample": 6 });
+                break;
         }
     } else {
         // if connection to server is not established, we just play sounds locally
@@ -115,6 +117,7 @@ function preloadSampleFiles() {
 
 
 function setup() {
+    createCanvas(windowWidth, windowHeight * 0.8)
 
     // https://p5js.org/reference/#/p5.FFT
     fft = new p5.FFT();
@@ -125,7 +128,21 @@ function setup() {
 
 
 
+// visualization
+function draw() {
+    blendMode(BLEND);
+    background(10, 5, 20);
+    blendMode(LIGHTEST);
+    noFill();
 
+    spectrum = fft.analyze();
+    energy = fft.getEnergy(100, 255);
+    size = map(energy, 0, 255, energy * 0.2, windowHeight * 0.8);
+
+    stroke('hsla(0, 80%, 100%, 0.5)');
+    strokeWeight(size * 0.05);
+    circle(windowWidth * 0.5, windowHeight * 0.4, size);
+}
 
 
 // helper functions
