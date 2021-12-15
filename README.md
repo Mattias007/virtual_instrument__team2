@@ -38,9 +38,13 @@
 
 ## ÜLESANDED
 **1. päev**
+
 (1) Meeskonnaga tutvumine.
+
 (2) Suhtluskanalite loomine.
+
 (3) Disainilahenduse loomine.
+
 (4) Veebisaidi baasi tegemine.
 
 **2. päev**
