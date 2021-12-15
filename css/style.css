@@ -8,41 +8,6 @@ html {
 html, body {
     margin:0; padding:0;
 }
-body {
-    position: relative;
-    background-color: black;
-    height: 100vh;
-}
-.keys{
-    position: absolute;
-    bottom:5vh;
-    left:0;
-    width: 100%;
-    display: flex;
-    gap: 2vw;
-    padding: 2vw;
-}
-
-.key{
-    flex-grow: 1;
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 8vw;
-    border: 1px solid white;
-    border-radius: 0.25ch;
-    cursor: pointer;
-    user-select: none;
-}
-
-.container {
-    height: 100vh;
-    width: 100vw;
-    background-image: url("/mets.png");
-    background-repeat: no-repeat;
-    background-position: center center;
-}
 .main {
     position: fixed;
     display: flex;
@@ -70,70 +35,10 @@ body {
     color: white;
     text-decoration: none;
 }
-.pilt{
+.container {
     height: 100vh;
+    width: 100vw;
     background-image: url("/mets.png");
     background-repeat: no-repeat;
     background-position: center center;
-    display: flex;
-    align-items: center;
-}
-.kannel{
-    height: 500px;
-    width: 1300px;
-}
-.nupp1{
-    text-decoration: none;
-    color: white;
-    background: rgba(202, 198, 198, 0.5);
-    font-size: 50px;
-    border-radius: 5px 5px 5px 5px;
-}
-.nupp2{
-    text-decoration: none;
-    color: white;
-    background-color: rgba(202, 198, 198, 0.5) ;
-    font-size: 50px;
-    border-radius: 5px 5px 5px 5px;
-}
-.nupp3{
-    text-decoration: none;
-    color: white;
-    background-color: rgba(202, 198, 198, 0.5);
-    font-size: 50px;
-    border-radius: 5px 5px 5px 5px;
-}
-.nupp4{
-    text-decoration: none;
-    color: white;
-    background-color: rgba(202, 198, 198, 0.5);
-    font-size: 50px;
-    border-radius: 5px 5px 5px 5px;
-}
-.nupp5{
-    text-decoration: none;
-    color: white;
-    background-color: rgba(202, 198, 198, 0.5);
-    font-size: 50px;
-    border-radius: 5px 5px 5px 5px;
-}
-.nupp6{
-    text-decoration: none;
-    color: white;
-    background-color: rgba(202, 198, 198, 0.5);
-    font-size: 50px;
-    border-radius: 5px 5px 5px 5px;
-}
-.nupp7{
-    text-decoration: none;
-    color: white;
-    background-color: rgba(202, 198, 198, 0.5);
-    font-size: 50px;
-    border-radius: 5px 5px 5px 5px;
-}
-
-.nupud{
-    display: flex;
-    justify-content: center;
-    flex-direction: row;
 }
