@@ -103,6 +103,7 @@
 
 ## KÜSIMUSED TIIMILIIKMETELE: 
 **1. Kas oleksid tahtnud täita mingit muud ülesannet selles meeskonnas?**
+
 Airi:                       Mulle sobis kõik, mis tegema pidin.
 
 Evert:                      Ei, mulle sobis kõik.
@@ -122,6 +123,7 @@ Remi:                       -
 Olev:                       -
   
 **2. Üks pehme oskus, mida õppisin ja endas arendasin:**
+
 Airi:                       Proleemide lahendamine, meeskonnatöö. 
 
 Evert:                      Meeskonnatöö. 
@@ -141,6 +143,7 @@ Remi:                       -
 Olev:                       -
   
 **3. Üks tehniline oskus, mida õppisin ja endas arendasin.**
+
 Airi:                       HTML ja CSS
 
 Evert:                      HTML ja CSS
