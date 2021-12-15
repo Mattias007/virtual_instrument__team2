@@ -37,45 +37,63 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## ÜLESANDED
-**1. päev**
+**1. päev:**
 
-(1) Meeskonnaga tutvumine.
+* Meeskonnaga tutvumine.
 
-(2) Suhtluskanalite loomine.
+* Suhtluskanalite loomine.
 
-(3) Disainilahenduse loomine.
+* Disainilahenduse loomine.
 
-(4) Veebisaidi baasi tegemine.
+* Veebisaidi baasi tegemine.
 
-**2. päev**
-(1) Disainilahenduse ülevaatamine ja viimistlemine.
-(2) Koodi kirjutamine.
-(3) Arduino ühendamine serveriga.
-(4) Serveri loomine.
+**2. päev:**
 
-**3. päev**
-(1) Töö hetkeseisu ülevaatamine.
-(2) Pooleliolevate tööde lõpetamine.
-(3) Esitluseks valmistumine.
-(4) Esitluse esitamine.
-(5) GitHubi korda tegemine.
+* Disainilahenduse ülevaatamine ja viimistlemine.
+
+* Koodi kirjutamine.
+
+* Arduino ühendamine serveriga.
+
+* Serveri loomine.
+
+**3. päev:**
+* Töö hetkeseisu ülevaatamine.
+
+* Pooleliolevate tööde lõpetamine.
+
+* Esitluseks valmistumine.
+
+* Esitluse esitamine.
+
+* GitHubi korda tegemine.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## KASUTATUD TARKVARA:
+
 (1) Slack:                  Suhtluskanal.
+
 (2) GitHub:                 Projekti haldamine.
+
 (3) Visual Studio Code:     Programmeerimine.
+
 (4) Kasutatud keeled:       HTML, CSS, Python, JavaScript.
+
 (5) Figma:                  Disain
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## TEGEVUSTE JAOTUS:
+
 (1) Prototüüp Figmas:       Külle
+
 (2) README.md:              Airi, Evert, Kristo
+
 (3) Programmeerimine:       Kristo, Mattias, Andrus, Airi, Evert, Külle
+
 (4) Arduino:                Rihard, Andrus, Remi
+
 (5) Server:                 Mattias
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
