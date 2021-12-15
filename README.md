@@ -23,8 +23,7 @@
 
 **TAK-20:**
 
-(6) Rihard Pärgma
-
+(6) Rihard Pärgma   
 (7) Remi Kapsta
 
 **KIG-21:**
